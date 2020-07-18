@@ -1,0 +1,20 @@
+{
+  "name": "react-css-loader-spinner",
+  "version": "1.0.0",
+  "description": "Css-only loading spinners for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/judy-D/react-css-loader-spinner.git"
+  },
+  "keywords": ["react","loader","spinner","css"],
+  "author": "Judy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/judy-D/react-css-loader-spinner/issues"
+  },
+  "homepage": "https://github.com/judy-D/react-css-loader-spinner#readme"
+}
